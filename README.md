@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQF0Hd9KaqLmoA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724795126575?e=1769644800&v=beta&t=K3iqY4HokXKYxZWxd27aquY92E5t0kC9_jPdV09LapE?text=Ankit+Regmi+|+Full+Stack+Developer" alt="Header" />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQF0Hd9KaqLmoA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724795126575?e=1769644800&v=beta&t=K3iqY4HokXKYxZWxd27aquY92E5t0kC9_jPdV09LapE" height="50" width="50"alt="Header" />
 </div>
 
 <h1 align="center">Hi there, I'm Ankit Regmi! 👋</h1>
@@ -14,10 +14,10 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[Project Name or 'Building scalable web apps']**
-- 🌱 I’m currently learning **[New Tech, e.g., Rust or AWS]**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- ⚡ Fun fact: **[Insert a short, humanizing fact here]**
+- 🔭 I’m currently working on **Microservice Project for Patient Mangement System**
+- 🌱 I’m currently learning **Spring Boot and AWS**
+- 👯 I’m looking to collaborate on **Open Source Projects and new oppurtunities**
+- ⚡ Fun fact: ****
 
 ---
 
@@ -25,15 +25,15 @@
 I don't just write code; I build solutions. Here is my tech-stack:
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,nodejs,express,mongodb,python,git,docker,aws,typescript" />
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,nodejs,express,mongodb,python,git,docker,aws" />
 </div>
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankit Regmi&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankit Regmi&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AnkitRegmi1&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitRegmi1&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
 </div>
 
 ---
@@ -42,5 +42,6 @@ I don't just write code; I build solutions. Here is my tech-stack:
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Project Name 1]** | A brief 1-sentence description of what problem this solves. | `React` `Node.js` `MongoDB` |
-| **[Project Name 2]** | A brief 1-sentence description of what problem this solves. | `Python` `Django` `PostgreSQL` |
+| **TruSwap** | A Marketplace for Truman State University students. | `React` `SpringBoot` `MySQL` |
+| **BookStore** | A full-stack web app made for buying and selling books. | `JavaScript` `PHP` `MySQL` |
+| **AI Image Detector** | A browser extension to check if an image is AI-generated. | `JavaScript` `Python` |
