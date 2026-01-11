@@ -28,15 +28,7 @@ I don't just write code; I build solutions. Here is my tech-stack:
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,nodejs,express,mongodb,python,git,docker,aws" />
 </div>
 
----
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnkitRegmi1&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitRegmi1&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph"  />
-</div>
-
----
 
 ### 🏆 Featured Projects
 
