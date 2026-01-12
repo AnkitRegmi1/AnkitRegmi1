@@ -21,7 +21,7 @@
 ---
 
 ### 🛠️ Tech Stack
-I don't just write code; I build solutions. Here is my tech-stack:
+Here is my tech-stack:
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,nodejs,express,mongodb,python,git,docker,aws" />
