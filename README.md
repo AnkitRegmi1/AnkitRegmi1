@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5603AQF0Hd9KaqLmoA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724795126575?e=1769644800&v=beta&t=K3iqY4HokXKYxZWxd27aquY92E5t0kC9_jPdV09LapE" height="50" width="50"alt="Header" />
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQF0Hd9KaqLmoA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1724795126575?e=1769644800&v=beta&t=K3iqY4HokXKYxZWxd27aquY92E5t0kC9_jPdV09LapE" height="150" width="150" alt="Ankit Regmi" />
 </div>
 
 <h1 align="center">Hi there, I'm Ankit Regmi! 👋</h1>
@@ -14,10 +14,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **Microservice Project for Patient Mangement System**
+- 🔭 I’m currently working on a **Microservice Project for Patient Management System**
 - 🌱 I’m currently learning **Spring Boot and AWS**
-- 👯 I’m looking to collaborate on **Open Source Projects and new oppurtunities**
-- ⚡ Fun fact: ****
+- 👯 I’m looking to collaborate on **Open Source Projects and new opportunities**
 
 ---
 
@@ -28,7 +27,7 @@ I don't just write code; I build solutions. Here is my tech-stack:
   <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,nodejs,express,mongodb,python,git,docker,aws" />
 </div>
 
-
+---
 
 ### 🏆 Featured Projects
 
