@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://my-fcc.com/wp-content/uploads/2026/01/Adobe-Express-file.png" height="150" width="150" alt="Ankit Regmi" />
-</div>
+
 
 <h1 align="center">Hi there, I'm Ankit Regmi! 👋</h1>
 <h3 align="center">Full Stack Web Developer | Problem Solver | Tech Enthusiast</h3>
