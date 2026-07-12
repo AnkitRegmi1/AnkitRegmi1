@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Web Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ankit-regmi-4a5013239/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ 
   <a href="https://personal-portfolio-gqfb.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /></a>
   <a href="mailto:ankitregmi700@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
